@@ -1,0 +1,27 @@
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.custom-nav .custom-nav-item a {
+    color: white !important;
+}
+.custom-nav-item :hover{
+    background-color:aquamarine;
+    border: solid lightseagreen 1px;
+    border-radius: 10px;
+}
+.remove-vid-marg{
+    margin: 0px;
+    padding: 0px;
+}
+
+.vid-parent{
+    position: relative;
+}
+video{
+    width: 100%;
+    height: 100%;
+}
